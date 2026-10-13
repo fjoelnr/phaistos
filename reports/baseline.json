@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-13",
+  "stage": "implementation baseline; original dossiers unavailable",
+  "groups_expected": {"A": 31, "B": 30},
+  "groups_measured": 0,
+  "groups_reviewed": 0,
+  "tests_passed": 13,
+  "test_command": "python -m unittest discover -s tests -v",
+  "working_template_validation": "passed as incomplete template",
+  "release_validation": "correctly rejected: missing measurements and original import",
+  "image_dimensions_and_sha256": "verified for both downloaded images",
+  "image_visual_review": "overview only; no group-level review yet",
+  "gui_manual_workflow_test": "outstanding",
+  "statistical_models_run": false,
+  "original_checkpoint_imported": false
+}

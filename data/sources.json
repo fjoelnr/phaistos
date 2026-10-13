@@ -1,0 +1,31 @@
+{
+  "A": {
+    "path": "data/raw/side_A.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%CE%94%CE%AF%CF%83%CE%BA%CE%BF%CF%82_%CF%84%CE%B7%CF%82_%CE%A6%CE%B1%CE%B9%CF%83%CF%84%CE%BF%CF%8D_%CF%80%CE%BB%CE%B5%CF%85%CF%81%CE%AC_%CE%91_6380.JPG",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Δίσκος_της_Φαιστού_πλευρά_Α_6380.JPG",
+    "page_revision": "1227221198",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "width": 4557,
+    "height": 3394,
+    "sha256": "290b7071e4c427d5f02b65bb9fef4317c98e2e88f1720ce91e34b77f1735a9f1",
+    "verified_date": "2026-10-13",
+    "transform": "none; image-file pixels, no EXIF transpose",
+    "downloaded_utc": "2026-10-13T17:35:12.512294+00:00"
+  },
+  "B": {
+    "path": "data/raw/side_B.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/%CE%94%CE%AF%CF%83%CE%BA%CE%BF%CF%82_%CF%84%CE%B7%CF%82_%CE%A6%CE%B1%CE%B9%CF%83%CF%84%CE%BF%CF%8D_%CF%80%CE%BB%CE%B5%CF%85%CF%81%CE%AC_B_6381.JPG",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Δίσκος_της_Φαιστού_πλευρά_B_6381.JPG",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "width": 4608,
+    "height": 3456,
+    "sha256": "0126ce7f14641c0adc8f3116c9e5fc97e998a9ffe25de03028ee25d517ab25c1",
+    "verified_date": "2026-10-13",
+    "transform": "none; image-file pixels, no EXIF transpose",
+    "downloaded_utc": "2026-10-13T17:35:13.709635+00:00"
+  }
+}
