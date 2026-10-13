@@ -71,5 +71,6 @@ der Markierungszuordnung sein. Endzeichen und Länge bleiben zu kontrollieren;
 fragmentierte Strata begrenzen die Aussagekraft. Dieses Paket enthält bewusst
 keinen aktiven Markierungsdatensatz und kein Signifikanzmodell.
 
-Remote-Ziel laut Nutzer: `fjoelnr/phaistos`, öffentlich. Code und
+Öffentliches Repository: [fjoelnr/phaistos](https://github.com/fjoelnr/phaistos).
+Code und
 Dokumente haben noch keine gewählte Projektlizenz; Bildrechte siehe Quellen.

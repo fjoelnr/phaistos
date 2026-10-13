@@ -40,7 +40,15 @@ Markierungsanalyse gesperrt; es gibt keine erfundenen Ersatzdaten.
 4. A01–A31/B01–B30 mit Originalnummerierung und Transkription abgleichen.
 5. Beide Fotos visuell auf Vollständigkeit, Reflexionen und Verzerrung prüfen.
 6. 61 Zentren erfassen, Unsicherheit begründen, unabhängig sichten und freigeben.
-7. Öffentliches Remote `fjoelnr/phaistos` mit dem geprüften Ausgangsstand befüllen.
+
+## Versionsstand
+
+Das öffentliche Repository [fjoelnr/phaistos](https://github.com/fjoelnr/phaistos)
+wurde am 2026-10-13 angelegt und mit dem geprüften Implementierungsstand
+`b27b517` auf `main` befüllt. Fotografien und eingehende Originaldateien werden
+nicht mit hochgeladen; die beiden Arbeitsbilder sind über URLs und SHA-256
+reproduzierbar gebunden. Dies ist eine Implementierungsbasis, kein abgeschlossener
+Forschungsdatensatz.
 
 Die 61 Zeilen in `groups.csv` sind leere Erfassungsplätze, kein importierter
 Forschungsdatensatz. Es wird keine Kompatibilität mit dem fehlenden D21-CSV
